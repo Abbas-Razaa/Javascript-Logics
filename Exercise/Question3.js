@@ -3,7 +3,7 @@
 const users = [{
     name: "Alice",
     age: 25,
-    occupation: "teacher
+    occupation: "teacher"
 },
 {
     name: "Bob",
